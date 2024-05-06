@@ -2099,4 +2099,7 @@ body .body-overlay {
 
 
 
-
+::selection{
+  color: rgb(255, 255, 255);
+  background: rgba(180, 104, 10, 0.906)
+}
